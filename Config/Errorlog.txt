@@ -1,0 +1,262 @@
+Policy id : 000879686 located at : 16 PLCC Value is greater then 10
+Policy id : 000634918 located at : 17 PLCC Value is greater then 10
+Policy id : 066916842 located at : 150 PLCC Value is greater then 10
+Policy id : 062676051 located at : 177 PLCC Value is greater then 10
+Policy id : 064383610 located at : 241 PLCC Value is greater then 10
+Policy id : 063673288 located at : 318 PLCC Value is greater then 10
+Policy id : 067005620 located at : 320 PLCC Value is greater then 10
+Policy id : 066819159 located at : 324 PLCC Value is greater then 10
+Policy id : 000170201 located at : 340 PLCC Value is greater then 10
+Policy id : 066884661 located at : 389 PLCC Value is greater then 10
+Policy id : 063250740 located at : 425 PLCC Value is greater then 10
+Policy id : 000896371 located at : 437 PLCC Value is greater then 10
+Policy id : 063495388 located at : 449 PLCC Value is greater then 10
+Policy id : 066952199 located at : 459 PLCC Value is greater then 10
+Policy id : 000842007 located at : 466 PLCC Value is greater then 10
+Policy id : 000880543 located at : 630 PLCC Value is greater then 10
+Policy id : 000890625 located at : 666 PLCC Value is greater then 10
+Policy id : 064362156 located at : 687 File not found in Application
+Policy id : 066939224 located at : 709 PLCC Value is greater then 10
+Policy id : 066925869 located at : 710 PLCC Value is greater then 10
+Policy id : 000528376 located at : 717 PLCC Value is greater then 10
+Policy id : 063487336 located at : 727 Folder not found on DUMP
+Policy id : 063303833 located at : 737 PLCC Value is greater then 10
+Policy id : 066893592 located at : 745 PLCC Value is greater then 10
+Policy id : 000845634 located at : 746 PLCC Value is greater then 10
+Policy id : 066902800 located at : 760 PLCC Value is greater then 10
+Policy id : 066975360 located at : 776 PLCC Value is greater then 10
+Policy id : 063448496 located at : 826 PLCC Value is greater then 10
+Policy id : 066867051 located at : 841 PLCC Value is greater then 10
+Policy id : 064168438 located at : 843 PLCC Value is greater then 10
+Policy id : 063587743 located at : 849 PLCC Value is greater then 10
+Policy id : 063372086 located at : 865 PLCC Value is greater then 10
+Policy id : 000808397 located at : 872 PLCC Value is greater then 10
+Policy id : 000548354 located at : 873 PLCC Value is greater then 10
+Policy id : 063005954 located at : 880 File not found in Application
+Policy id : 000844391 located at : 885 PLCC Value is greater then 10
+Policy id : 066841980 located at : 890 PLCC Value is greater then 10
+Policy id : 000566595 located at : 897 PLCC Value is greater then 10
+Policy id : 062997593 located at : 936 File not found in Application
+Policy id : 062673070 located at : 967 PLCC Value is greater then 10
+Policy id : 000848668 located at : 1008 PLCC Value is greater then 10
+Policy id : 062508535 located at : 1012 PLCC Value is greater then 10
+Policy id : 064133212 located at : 1023 PLCC Value is greater then 10
+Policy id : 063510741 located at : 1050 PLCC Value is greater then 10
+Policy id : 066977616 located at : 1052 PLCC Value is greater then 10
+Policy id : 000622787 located at : 1063 PLCC Value is greater then 10
+Policy id : 000583789 located at : 1078 PLCC Value is greater then 10
+Policy id : 064329403 located at : 1096 PLCC Value is greater then 10
+Policy id : 063629650 located at : 1111 PLCC Value is greater then 10
+Policy id : 008387283 located at : 1170 PLCC Value is greater then 10
+Policy id : 064425152 located at : 1179 PLCC Value is greater then 10
+Policy id : 066834014 located at : 1201 PLCC Value is greater then 10
+Policy id : 003116782 located at : 1218 PLCC Value is greater then 10
+Policy id : 062430540 located at : 1228 PLCC Value is greater then 10
+Policy id : 066824864 located at : 1229 PLCC Value is greater then 10
+Policy id : 063303114 located at : 1235 PLCC Value is greater then 10
+Policy id : 000448321 located at : 1236 PLCC Value is greater then 10
+Policy id : 066925802 located at : 1264 PLCC Value is greater then 10
+Policy id : 000484538 located at : 1267 PLCC Value is greater then 10
+Policy id : 064316143 located at : 1268 PLCC Value is greater then 10
+Policy id : 063354808 located at : 1269 PLCC Value is greater then 10
+Policy id : 066838308 located at : 1276 PLCC Value is greater then 10
+Policy id : 000615569 located at : 1283 PLCC Value is greater then 10
+Policy id : 063201469 located at : 1286 Folder not found on DUMP
+Policy id : 003059564 located at : 1306 PLCC Value is greater then 10
+Policy id : 063523989 located at : 1339 PLCC Value is greater then 10
+Policy id : 066901781 located at : 1359 PLCC Value is greater then 10
+Policy id : 062833419 located at : 1377 Folder not found on DUMP
+Policy id : 000625017 located at : 9 PLCC Value is greater then 10
+Policy id : 064198560 located at : 56 PLCC Value is greater then 10
+Policy id : 066833288 located at : 106 PLCC Value is greater then 10
+Policy id : 000872517 located at : 119 PLCC Value is greater then 10
+Policy id : 066902424 located at : 156 PLCC Value is greater then 10
+Policy id : 062481852 located at : 231 PLCC Value is greater then 10
+Policy id : 066867278 located at : 243 PLCC Value is greater then 10
+Policy id : 066852598 located at : 278 PLCC Value is greater then 10
+Policy id : 066354561 located at : 2 Folder not found on DUMP
+Policy id : 066354561 located at : 2 Folder not found on DUMP
+Policy id : 066354561 located at : 2 Folder not found on DUMP
+Policy id : 062439008 located at : 18 PLCC Value is greater then 10
+Policy id : 000537065 located at : 30 PLCC Value is greater then 10
+Policy id : 008459039 located at : 2 PLCC Value is greater then 10
+Policy id : 000603788 located at : 6 PLCC Value is greater then 10
+Policy id : 000815149 located at : 7 PLCC Value is greater then 10
+Policy id : 000828066 located at : 6 Folder not found on DUMP
+Policy id : 000815149 located at : 7 Folder not found on DUMP
+Policy id : 000845439 located at : 2 Folder not found on DUMP
+Policy id : 063539367 located at : 3 Folder not found on DUMP
+Policy id : 000860846 located at : 4 Folder not found on DUMP
+Policy id : 000574581 located at : 5 Folder not found on DUMP
+Policy id : 000828066 located at : 6 Folder not found on DUMP
+Policy id : 000815149 located at : 7 Folder not found on DUMP
+Policy id : 000611422 located at : 8 Folder not found on DUMP
+Policy id : 000869135 located at : 9 Folder not found on DUMP
+Policy id : 063303918 located at : 10 Folder not found on DUMP
+Policy id : 062522040 located at : 11 Folder not found on DUMP
+Policy id : 000845385 located at : 12 Folder not found on DUMP
+Policy id : 066384421 located at : 13 Folder not found on DUMP
+Policy id : 008490889 located at : 14 Folder not found on DUMP
+Policy id : 000895721 located at : 15 Folder not found on DUMP
+Policy id : 000852230 located at : 16 Folder not found on DUMP
+Policy id : 008509686 located at : 17 Folder not found on DUMP
+Policy id : 063444958 located at : 18 Folder not found on DUMP
+Policy id : 000487057 located at : 11 PLCC Value is greater then 10
+Policy id : 063632370 located at : 13 PLCC Value is greater then 10
+Policy id : 063323291 located at : 18 PLCC Value is greater then 10
+Policy id : 000844019 located at : 21 PLCC Value is greater then 10
+Policy id : 008486514 located at : 2 Folder not found on DUMP
+Policy id : 003188444 located at : 38 PLCC Value is greater then 10
+Policy id : 008381914 located at : 112 PLCC Value is greater then 10
+Policy id : 008486514 located at : 2 Folder not found on DUMP
+Policy id : 008486514 located at : 2 Folder not found on DUMP
+Policy id : 008385943 located at : 3 File not found in Application
+Policy id : 064331738 located at : 2 PLCC Value is greater then 10
+Policy id : 064331738 located at : 2 PLCC Value is greater then 10
+Policy id : 000659149 located at : 4 PLCC Value is greater then 10
+Policy id : 064331738 located at : 2 PLCC Value is greater then 10
+Policy id : 008385943 located at : 3 PLCC Value is greater then 10
+Policy id : 064170429 located at : 5 PLCC Value is greater then 10
+Policy id : 000462039 located at : 6 PLCC Value is greater then 10
+Policy id : 064331738 located at : 2 PLCC Value is greater then 10
+Policy id : 008385943 located at : 3 PLCC Value is greater then 10
+Policy id : 064170429 located at : 4 PLCC Value is greater then 10
+Policy id : 000659149 located at : 3 PLCC Value is greater then 10
+Policy id : 063526844 located at : 7 PLCC Value is greater then 10
+Policy id : 064170429 located at : 4 File not found in Application
+Policy id : 066820407 located at : 8 File not found in Application
+Policy id : 066820407 located at : 8 File not found in Application
+Policy id : 008385943 located at : 2 File not found in Application
+Policy id : 000462039 located at : 5 File not found in Application
+Policy id : 066820407 located at : 8 File not found in Application
+Policy id : 064170429 located at : 4 File not found in Application
+Policy id : 000462039 located at : 5 File not found in Application
+Policy id : 066820407 located at : 8 File not found in Application
+Policy id : 064170429 located at : 4 File not found in Application
+Policy id : 000462039 located at : 5 File not found in Application
+Policy id : 066820407 located at : 3 File not found in Application
+Policy id : 062950450 located at : 8 File not found in Application
+Policy id : 000879686 located at : 10 File not found in Application
+Policy id : 063062758 located at : 12 Folder not found on DUMP
+Policy id : 064415792 located at : 13 Folder not found on DUMP
+Policy id : 066820407 located at : 3 File not found in Application
+Policy id : 062950450 located at : 8 File not found in Application
+Policy id : 000879686 located at : 10 File not found in Application
+Policy id : 063062758 located at : 12 Folder not found on DUMP
+Policy id : 064415792 located at : 13 Folder not found on DUMP
+Policy id : 063526844 located at : 2 Folder not found on DUMP
+Policy id : 066820407 located at : 3 Folder not found on DUMP
+Policy id : 000546564 located at : 4 Folder not found on DUMP
+Policy id : 008440233 located at : 4 File not found in Application
+Policy id : 062425784 located at : 5 File not found in Application
+Policy id : 063007872 located at : 7 File not found in Application
+Policy id : 066825453 located at : 9 File not found in Application
+Policy id : 008440233 located at : 4 File not found in Application
+Policy id : 062425784 located at : 5 File not found in Application
+Policy id : 063007872 located at : 7 File not found in Application
+Policy id : 066825453 located at : 9 File not found in Application
+Policy id : 008440233 located at : 4 File not found in Application
+Policy id : 062425784 located at : 5 File not found in Application
+Policy id : 063007872 located at : 7 File not found in Application
+Policy id : 066825453 located at : 9 File not found in Application
+Policy id : 063530404 located at : 2 File not found in Application
+Policy id : 063600528 located at : 6 File not found in Application
+Policy id : 000603276 located at : 10 File not found in Application
+Policy id : 000431395 located at : 11 BC Val not matched
+Policy id : 008494313 located at : 12 File not found in Application
+Policy id : 008440233 located at : 4 File not found in Application
+Policy id : 062425784 located at : 5 File not found in Application
+Policy id : 063007872 located at : 7 File not found in Application
+Policy id : 066825453 located at : 9 File not found in Application
+Policy id : 008440233 located at : 4 File not found in Application
+Policy id : 062425784 located at : 5 File not found in Application
+Policy id : 063600528 located at : 6 File not found in Application
+Policy id : 063007872 located at : 7 File not found in Application
+Policy id : 066825453 located at : 9 File not found in Application
+Policy id : 008440233 located at : 4 File not found in Application
+Policy id : 062425784 located at : 5 File not found in Application
+Policy id : 063007872 located at : 7 File not found in Application
+Policy id : 066825453 located at : 9 File not found in Application
+Policy id : 062425784 located at : 5 PLCC Value is greater then 10
+Policy id : 008494313 located at : 12 PLCC Value is greater then 10
+Policy id : 062425784 located at : 5 PLCC Value is greater then 10
+Policy id : 066825453 located at : 9 PLCC Value is greater then 10
+Policy id : 063007872 located at : 2 File not found in Application
+Policy id : 063007872 located at : 2 Folder not found on DUMP
+Policy id : 000794205 located at : 3 Folder not found on DUMP
+Policy id : 066825453 located at : 4 Folder not found on DUMP
+Policy id : 000603276 located at : 5 Folder not found on DUMP
+Policy id : 000431395 located at : 6 Folder not found on DUMP
+Policy id : 008494313 located at : 7 Folder not found on DUMP
+Policy id : 063007872 located at : 2 Folder not found on DUMP
+Policy id : 000794205 located at : 3 Folder not found on DUMP
+Policy id : 066825453 located at : 4 Folder not found on DUMP
+Policy id : 000603276 located at : 5 Folder not found on DUMP
+Policy id : 000431395 located at : 6 Folder not found on DUMP
+Policy id : 008494313 located at : 7 Folder not found on DUMP
+Policy id : 063007872 located at : 2 Folder not found on DUMP
+Policy id : 000794205 located at : 3 Folder not found on DUMP
+Policy id : 066825453 located at : 4 Folder not found on DUMP
+Policy id : 000603276 located at : 5 Folder not found on DUMP
+Policy id : 000431395 located at : 6 Folder not found on DUMP
+Policy id : 008494313 located at : 7 Folder not found on DUMP
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66909923 located at : 4 PLCC Value is greater then 10
+Policy id : 63359626 located at : 5 PLCC Value is greater then 10
+Policy id : 66332789 located at : 6 PLCC Value is greater then 10
+Policy id : 66773030 located at : 7 PLCC Value is greater then 10
+Policy id : 66359189 located at : 8 PLCC Value is greater then 10
+Policy id : 66904358 located at : 9 PLCC Value is greater then 10
+Policy id : 66769886 located at : 10 PLCC Value is greater then 10
+Policy id : 66981838 located at : 11 PLCC Value is greater then 10
+Policy id : 63561902 located at : 12 PLCC Value is greater then 10
+Policy id : 64204278 located at : 13 PLCC Value is greater then 10
+Policy id : 63295622 located at : 14 PLCC Value is greater then 10
+Policy id : 66982249 located at : 2 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66909923 located at : 4 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66909923 located at : 4 PLCC Value is greater then 10
+Policy id : 63359626 located at : 5 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66909923 located at : 4 PLCC Value is greater then 10
+Policy id : 63359626 located at : 5 PLCC Value is greater then 10
+Policy id : 66332789 located at : 6 PLCC Value is greater then 10
+Policy id : 66773030 located at : 7 PLCC Value is greater then 10
+Policy id : 66359189 located at : 8 PLCC Value is greater then 10
+Policy id : 66904358 located at : 9 PLCC Value is greater then 10
+Policy id : 66769886 located at : 10 PLCC Value is greater then 10
+Policy id : 66981838 located at : 11 PLCC Value is greater then 10
+Policy id : 63561902 located at : 12 PLCC Value is greater then 10
+Policy id : 64204278 located at : 13 PLCC Value is greater then 10
+Policy id : 63295622 located at : 14 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66909923 located at : 4 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66909923 located at : 4 PLCC Value is greater then 10
+Policy id : 63359626 located at : 5 PLCC Value is greater then 10
+Policy id : 66332789 located at : 6 PLCC Value is greater then 10
+Policy id : 66773030 located at : 7 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66769886 located at : 10 File not found in Application
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 63359626 located at : 5 PLCC Value is greater then 10
+Policy id : 66982249 located at : 2 PLCC Value is greater then 10
+Policy id : 66982249 located at : 2 File not found in Application
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66909923 located at : 4 PLCC Value is greater then 10
+Policy id : 63359626 located at : 5 PLCC Value is greater then 10
+Policy id : 66982249 located at : 2 File not found in Application
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66982249 located at : 2 File not found in Application
+Policy id : 66338120 located at : 3 PLCC Value is greater then 10
+Policy id : 66909923 located at : 3 PLCC Value is greater then 10
+Policy id : 66909923 located at : 3 PLCC Value is greater then 10
